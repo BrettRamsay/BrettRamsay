@@ -3,10 +3,10 @@
 My name is Brett Ramsay.....
 
 ### 📚 Projects
-Dashboard Concept 
-SQL Murder Mystery Solution
-SQL City Analysis and Visualisation
-Data Clean Project
+- Dashboard Concept 
+- SQL Murder Mystery Solution
+- SQL City Analysis and Visualisation
+- Data Clean Project
 
 
 ### 🛠️ Skills
