@@ -1,12 +1,11 @@
 ##  Welcome!
 
-I'm Brett , a newly-certified data specialist with an emphasis on SQL and Python. You can find all the projects I've worked on so far below. 
+My name is Brett, a newly-certified data specialist with a focus on SQL and Python. Below you'll find the projects I've been working on.
 
 ### Projects
-- [SQL Murder Mystery Solution](https://github.com/BrettRamsay/Data/blob/main/SQLmurder.md): A walkthrough and reflection of the SQL queries I used to solve the SQL Murder Mystery.
-- [SQL City Analysis and Visualisation Notebook](https://github.com/BrettRamsay/Data/blob/main/SQLCityInvestigation.ipynb): Using Python to generate data about population, crime, and economic health for the fictitius SQL City . SQL, data analysis, data visualisation, and a small amount of data cleaning. (report coming soon)
-- Kaggle Data Clean Project (coming soon)
-
+- [SQL Murder Mystery Solution](https://github.com/BrettRamsay/Data/blob/main/SQLmurder.md): This is a walkthrough and reflection on the SQL queries I used to solve the SQL Murder Mystery.
+- [SQL City Analysis and Visualisation Notebook](https://github.com/BrettRamsay/Data/blob/main/SQLCityInvestigation.ipynb): In this project, I used Python to generate data about population, crime, and economic health for the fictitious SQL City. This involved SQL, data analysis, data visualisation, and a small amount of data cleaning. (Full report coming soon)
+- Kaggle Data Cleaning Project (Coming soon)
 
 ### Skills
 
