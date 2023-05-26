@@ -1,15 +1,15 @@
 ##  Welcome!
 
-My name is Brett Ramsay.....
+I'm Brett and I'm a newly-certified data specialist with an emphasis on SQL, Python, and Power BI. You can find all the projects I've worked on so far below. 
 
-### 📚 Projects
+### Projects
 - Dashboard Concept 
 - SQL Murder Mystery Solution
-- SQL City Analysis and Visualisation
-- Data Clean Project
+- SQL City Analysis and Visualisation Notebook (write-up coming soon)
+- Data Clean Project (coming soon)
 
 
-### 🛠️ Skills
+### Skills
 
 - Database: SQLite, SQL Server
 - Python: NumPy, Pandas
